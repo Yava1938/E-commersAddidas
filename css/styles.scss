@@ -141,6 +141,9 @@ body{
             > .cart__img{
                 width: 60px;
             }
+            > .cart__name{
+                overflow: hidden;
+            }
             
             > .cart__name:nth-child(3){
                 font-weight: 500;
